@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         PENIS mod | Katana + Musket | AUTOHEAL |  Anti-Insta  |  starter resources and more!!
+// @name         PENIS mod | Katana x Musket && AUTOHEAL &&  Anti~Insta  &&  starter resources and much more!!
 // @version      v.1.0
-// @description  Enjoy the mod GAY!
+// @description  Enjoy the mod! R~INSTA Q~SUPERHEAL Y~REVERSE-INSTA L~BOW-INSTA(AGE-1-INSTA) I~4-TRAP G~BOOSTSPIKE P~QUADSPIKE ARROWUP~AUTO-CHAT ARROWDOWN~AUTO-CLAN and more!!!
 // @author       SONNY
 // @match        *://moomoo.io/*
 // @match        *://dev.moomoo.io/*
