@@ -1107,7 +1107,7 @@ function animate(space, chance) {
     if(space) {
         characters = '    E M O J I    ';
     } else {
-        characters = '>wO'
+        characters = '-.-'
     }
     if(space) {
         characters = characters.padStart((30 - characters.length) / 2 + characters.length)
