@@ -1192,11 +1192,11 @@ menuChange.innerHTML = `
             <div class="modal-content">
                 <div class="modal-header">
                     <span class="closeBtn">&times;</span>
-                    <h2 style="font-size: 30px;">Penis Menu</h2>
+                    <h2 style="font-size: 30px;">EMOJI Menu</h2>
                 </div>
                 <div class="modal-body" style="font-size: 15px;">
                     <div class="flexControl">
-                    <h2 style="font-size: 20px;">EMOJI MENU -.-</h2>
+                    <h2 style="font-size: 20px;">EMOJI Menu -.-</h2>
         <label type="radio" class="container">Anti Insta<input type="checkbox" id="antiinsta">
         <span class="checkmark"></span></label>
         <label type="radio" class="container">put spike on instakill<input type="checkbox" id="putpike">
